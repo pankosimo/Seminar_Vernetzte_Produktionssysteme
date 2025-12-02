@@ -1,0 +1,2 @@
+# Seminar_Vernetzte_Produktionssysteme
+Seminar zu Vernetzte Produktionssysteme
